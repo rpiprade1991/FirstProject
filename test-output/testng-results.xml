@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39" started-at="2018-06-15T05:24:32Z" finished-at="2018-06-15T05:24:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39" started-at="2018-06-15T05:24:32Z" finished-at="2018-06-15T05:24:32Z">
+      <class name="Test1.Anno">
+        <test-method status="PASS" signature="b()[pri:0, instance:Test1.Anno@13805618]" name="b" is-config="true" duration-ms="8" started-at="2018-06-15T10:54:32Z" finished-at="2018-06-15T10:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="c()[pri:0, instance:Test1.Anno@13805618]" name="c" is-config="true" duration-ms="1" started-at="2018-06-15T10:54:32Z" finished-at="2018-06-15T10:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method status="PASS" signature="a()[pri:0, instance:Test1.Anno@13805618]" name="a" is-config="true" duration-ms="0" started-at="2018-06-15T10:54:32Z" finished-at="2018-06-15T10:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="d()[pri:0, instance:Test1.Anno@13805618]" name="d" duration-ms="10" started-at="2018-06-15T10:54:32Z" finished-at="2018-06-15T10:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method status="PASS" signature="show(java.lang.String, java.lang.String)[pri:0, instance:Test1.Anno@13805618]" name="show" duration-ms="1" started-at="2018-06-15T10:54:32Z" data-provider="data" finished-at="2018-06-15T10:54:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Piprade]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- show -->
+        <test-method status="PASS" signature="show(java.lang.String, java.lang.String)[pri:0, instance:Test1.Anno@13805618]" name="show" duration-ms="3" started-at="2018-06-15T10:54:32Z" data-provider="data" finished-at="2018-06-15T10:54:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aditya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Choudhari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- show -->
+      </class> <!-- Test1.Anno -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
